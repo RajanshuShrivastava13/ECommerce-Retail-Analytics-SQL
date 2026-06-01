@@ -14,3 +14,5 @@ The database consists of 5 normalized tables:
 3. `Products` - Stores product pricing, category mappings, and current stock status.
 4. `Orders` - Records high-level transactional details (Order Date, Customer ID).
 5. `OrderItems` - Line-level details mapping quantities to specific orders.
+
+** https://dbfiddle.uk/o8za1CMg **
